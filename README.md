@@ -1,7 +1,9 @@
-# Tango_flutter
 # Flutter Social App
 
-This project is a Flutter application that combines features from Tinder, Omegle, and Instagram, developed as part of an internship. It leverages Firebase for backend services and multiple technologies for real-time communication and messaging.
+This project is a Flutter mobile application that integrates functionalities inspired by Tinder (swipe-based matching), Omegle (anonymous video chatting), and Instagram (photo sharing and social networking). It utilizes Firebase for the backend services, including authentication, real-time database, cloud storage, and messaging.
+
+The application leverages WebRTC for peer-to-peer video communication and Socket.IO for real-time messaging and room management. It offers a seamless user experience with smooth transitions and responsive UI components built using Flutter widgets.
+
 
 ## Features
 
