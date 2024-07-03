@@ -66,14 +66,10 @@ Ensure you have Flutter installed on your local machine. You can download it fro
     ```bash
     const String serverKey = 'your_server_key';
     ```
-7. **Run the application on emulators or mobile devices**:
-    ```bash
-    flutter run
-    ```
 
 ## Usage
-    This app provides a combination of social media features:
+  This app provides a combination of social media features:
     
-    - Swipe Matching: Swipe left or right to find matches similar to Tinder.
-    - Random Video Chat: Connect randomly with users via WebRTC, similar to Omegle.
-    - Photo & Video Sharing: Share photos and videos, similar to Instagram.
+  - Swipe Matching: Swipe left or right to find matches similar to Tinder.
+  - Random Video Chat: Connect randomly with users via WebRTC, similar to Omegle.
+  - Photo & Video Sharing: Share photos and videos, similar to Instagram.
