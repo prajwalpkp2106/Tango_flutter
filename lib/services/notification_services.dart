@@ -63,8 +63,7 @@ class NotificationService {
   static Future<void> sendNotificationToUser(
       String userId, String notifytitle, String notifybody) async {
     // Send notification to the topic associated with the user
-    final String serverKey =
-        'AAAApZIk-DA:APA91bHG4Br9jE7Mk_W8EEnfb5h12sn6n1Js1_veaEDBwepH3LANito1cEqvTras8sxwusaub3beq_3sjeJ4t12SV7WEVW5O_eKkCKnhzwUv9EiEiLJiAwoY-q7vZydl2X3nncoNGdGm'; // Your Firebase Cloud Messaging server key
+    final String serverKey =''; // Your Firebase Cloud Messaging server key
 
     final String url = 'https://fcm.googleapis.com/fcm/send';
 

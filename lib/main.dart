@@ -20,11 +20,11 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: 'AIzaSyBUJ1uk5BjUoAIqpEOpMAgR_T1QWUbkSss',
-      appId: "1:711121500208:android:2ede95f340e6b7dab0d5f5",
-      storageBucket: 'tango-991f5.appspot.com',
-      messagingSenderId: '711121500208',
-      projectId: "tango-991f5",
+      apiKey: '',
+      appId: "",
+      storageBucket: '',
+      messagingSenderId: '',
+      projectId: "",
     ),
   );
   await NotificationService.initialize();
