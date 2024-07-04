@@ -72,7 +72,7 @@ Ensure you have Flutter installed on your local machine. You can download it fro
 ###App Insights
 
 ### Real Time Chatting with Typing indicators
-<img width="300" alt="screenshots/app1.png" src="screenshots/app1.jpg">
+<img width="250" alt="screenshots/app1.png" src="screenshots/app1.jpg">
 ## Usage
   This app provides a combination of social media features:
     
