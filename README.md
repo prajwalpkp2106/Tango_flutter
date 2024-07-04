@@ -69,6 +69,11 @@ Ensure you have Flutter installed on your local machine. You can download it fro
     const String serverKey = 'your_server_key';
     ```
 
+##App Insights
+### Real Time Chatting with Typing indicators
+<img width="1439" alt="screenshots/app1.png" src="screenshots/app1.png">
+<img src="screenshots/app1.png" alt="Image Description">
+
 ## Usage
   This app provides a combination of social media features:
     
