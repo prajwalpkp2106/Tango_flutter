@@ -69,6 +69,9 @@ Ensure you have Flutter installed on your local machine. You can download it fro
     const String serverKey = 'your_server_key';
     ```
 
+### App Insights
+
+<img width="250" alt="screenshots/app1.png" src="screenshots/app8.jpg" style="margin: 10px;"><img width="250" alt="screenshots/app4.png" src="screenshots/app4.jpg" style="margin: 10px;"><img width="250" alt="screenshots/app1.png" src="screenshots/app1.jpg" style="margin: 10px;"> <img width="250" alt="screenshots/app1.png" src="screenshots/app7.jpg" style="margin: 10px;"><img width="250" alt="screenshots/app2.png" src="screenshots/app2.jpg" style="margin: 10px;"><img width="250" alt="screenshots/app3.png" src="screenshots/app3.jpg" style="margin: 10px;"> <img width="250" alt="screenshots/app5.png" src="screenshots/app5.jpg" style="margin: 10px;"> <img width="250" alt="screenshots/app6.png" src="screenshots/app6.jpg" style="margin: 10px;">
 ## Usage
   This app provides a combination of social media features:
     
