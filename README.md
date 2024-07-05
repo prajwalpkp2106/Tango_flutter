@@ -62,11 +62,11 @@ Ensure you have Flutter installed on your local machine. You can download it fro
 
 5. **Add your server key in lib/services/notification_services.dart**:
     ```bash
-    flutter run
+    const String serverKey = 'your_server_key';
     ```
 6. **Run the application on emulators or mobile devices**:
     ```bash
-    const String serverKey = 'your_server_key';
+    flutter run
     ```
 
 ### App Insights
